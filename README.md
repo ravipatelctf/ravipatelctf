@@ -4,6 +4,14 @@ Welcome to my GitHub profile! I'm mostly involved in JavaScript/TypeScript devel
 
 ---
 
+## 📫 How to reach me
+
+- GitHub: [@ravipatelctf](https://github.com/ravipatelctf)
+- LinkedIn: [@ravipatelctf](https://www.linkedin.com/in/ravipatelctf/)
+- X: [@ravipatelctf](https://x.com/ravipatelctf)
+
+---
+
 ## 🚀 Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, SQL
@@ -23,13 +31,8 @@ Welcome to my GitHub profile! I'm mostly involved in JavaScript/TypeScript devel
 ## 🏆 GitHub Stats
 
 ![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravipatelctf&show_icons=true&theme=radical)
-![Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravipatelctf&layout=compact&theme=radical)
-
 ---
-
-## 📊 GitHub Activity Graph
-
-[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravipatelctf&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravipatelctf&layout=compact&theme=radical)
 
 ---
 
@@ -41,14 +44,6 @@ I'm always eager to collaborate and contribute to meaningful projects. If you ha
 ## 🎯 Career Goal
 
 Becoming a 100x developer just like Ryan Dhal, Linus Torvalds, Jeffery Way, etc  and making an impact through technology.
-
----
-
-## 📫 How to reach me
-
-- GitHub: [@ravipatelctf](https://github.com/ravipatelctf)
-- LinkedIn: [@ravipatelctf](https://www.linkedin.com/in/ravipatelctf/)
-- X: [@ravipatelctf](https://x.com/ravipatelctf)
 
 ---
 
