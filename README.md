@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravi Patel
 
-<!--
-**ravipatelctf/ravipatelctf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm mostly involved in JavaScript/TypeScript development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL
+- **Tools & Frameworks:** VScode, Postman, Docker, Git/Github, React, Next.js 
+- **Currently exploring:** MERN Stack
+
+---
+
+## 📂 Featured Projects
+
+- [portfolio-ravipatelctf](https://github.com/ravipatelctf/portfolio-ravipatelctf) — My personal portfolio website, showcasing my journey and projects.
+- [npm-resume-ravipatelctf](https://github.com/ravipatelctf/npm-resume-ravipatelctf) — An npm-based resume project, presenting my skills and experience in a developer-friendly way.
+- [devportui](https://github.com/ravipatelctf/devportui) — UI components and utilities for developers.
+
+---
+
+## 🏆 GitHub Stats
+
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravipatelctf&show_icons=true&theme=radical)
+![Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravipatelctf&layout=compact&theme=radical)
+
+---
+
+## 📊 GitHub Activity Graph
+
+[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravipatelctf&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌱 I’m open to contributing to any project!
+I'm always eager to collaborate and contribute to meaningful projects. If you have something exciting, feel free to reach out!
+
+---
+
+## 🎯 Career Goal
+
+Becoming a 100x developer just like Ryan Dhal, Linus Torvalds, Jeffery Way, etc  and making an impact through technology.
+
+---
+
+## 📫 How to reach me
+
+- GitHub: [@ravipatelctf](https://github.com/ravipatelctf)
+- LinkedIn: [@ravipatelctf](https://www.linkedin.com/in/ravipatelctf/)
+- X: [@ravipatelctf](https://x.com/ravipatelctf)
+
+---
+
+Thanks for stopping by! Let's build something great together 🚀
