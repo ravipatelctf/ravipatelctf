@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi Patel
 
-Welcome to my GitHub profile! I'm mostly involved in JavaScript/TypeScript development.
+Welcome to my GitHub profile! I'm mostly involved in JavaScript development.
 
 ---
 
