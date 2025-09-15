@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Ravi Patel
-
-Welcome to my GitHub profile! I'm mostly involved in JavaScript development.
+# 👋 Hi, I'm Ravi
+Welcome to my GitHub profile! I'm mostly involved in development of CRUD webapps using JavaScript and Python
 
 ---
 
@@ -9,23 +8,24 @@ Welcome to my GitHub profile! I'm mostly involved in JavaScript development.
 - GitHub: [@ravipatelctf](https://github.com/ravipatelctf)
 - LinkedIn: [@ravipatelctf](https://www.linkedin.com/in/ravipatelctf/)
 - X: [@ravipatelctf](https://x.com/ravipatelctf)
+- Email: [ravipatelctf@gmail.com](ravipatelctf@gmail.com)
+- Portfolio: [ravipatelctf](https://ravipatelctf.netlify.app/)
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL
-- **Tools & Frameworks:** VScode, Postman, Docker, Git/Github, React, Next.js 
-- **Currently exploring:** MERN Stack
+- **Languages:** JavaScript, Python, SQL, HTML, CSS
+- **Libraries & Framworks**: React, Express JS, Mongoose, SQLAlchemy
+- **Databases:** MongoDB, NeonDB
+- **Tools:** VScode, Postman, Docker, Git/Github
 
 ---
 
 ## 📂 Featured Projects
 
-- [portfolio-ravipatelctf](https://github.com/ravipatelctf/portfolio-ravipatelctf) — My personal portfolio website, showcasing my journey and projects.
-- [npm-resume-ravipatelctf](https://github.com/ravipatelctf/npm-resume-ravipatelctf) — An npm-based resume project, presenting my skills and experience in a developer-friendly way.
-- [devportui](https://github.com/ravipatelctf/devportui) — UI components and utilities for developers.
-
+- [Anvaya CRM](https://frontend-mp2.vercel.app/) - A MERN based CRM webapp that helps to manage sales leads and sales agents
+- [myShoppingSite](https://frontend-mp1.vercel.app/) - An ecommerce webapp built using MERN technologies. It helps users purchase products.
 ---
 
 ## 🏆 GitHub Stats
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm mostly involved in JavaScript development.
 
 ---
 
-## 🌱 I’m open to contributing to any project!
+## 🌱 I’m open to contributing to any project that make an impact!
 I'm always eager to collaborate and contribute to meaningful projects. If you have something exciting, feel free to reach out!
 
 ---
