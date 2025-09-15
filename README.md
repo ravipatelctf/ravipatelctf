@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm mostly involved in development of CRUD webapps
 
 ---
 
-## 🌱 I’m open to contributing to any project that make an impact!
+## 🌱 I’m open to contributing to any project that makes an impact!
 I'm always eager to collaborate and contribute to meaningful projects. If you have something exciting, feel free to reach out!
 
 ---
