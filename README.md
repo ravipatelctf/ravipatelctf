@@ -28,14 +28,6 @@ Welcome to my GitHub profile! I'm mostly involved in development of CRUD webapps
 - [myShoppingSite](https://frontend-mp1.vercel.app/) - An ecommerce webapp built using MERN technologies. It helps users purchase products.
 ---
 
-## 🏆 GitHub Stats
-
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravipatelctf&show_icons=true&theme=radical)
----
-![Ravi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravipatelctf&layout=compact&theme=radical)
-
----
-
 ## 🌱 I’m open to contributing to any project that makes an impact!
 I'm always eager to collaborate and contribute to meaningful projects. If you have something exciting, feel free to reach out!
 
