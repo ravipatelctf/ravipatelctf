@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm mostly involved in development of CRUD webapps
 - LinkedIn: [@ravipatelctf](https://www.linkedin.com/in/ravipatelctf/)
 - X: [@ravipatelctf](https://x.com/ravipatelctf)
 - Email: [ravipatelctf@gmail.com](ravipatelctf@gmail.com)
-- Portfolio: [ravipatelctf](https://ravipatelctf.netlify.app/)
+- Portfolio: [ravipatelctf](https://ravipatelctf.vercel.app/)
 
 ---
 
