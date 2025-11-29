@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Ravi
-Welcome to my GitHub profile! I'm mostly involved in development of CRUD webapps using JavaScript and Python
+Contributing as an Open Source Developer at TeamShiksha.
+focusing on database design and API development for roadmaps feature using SQLAlchemy and FastAPI.
 
 ---
 
@@ -15,16 +16,16 @@ Welcome to my GitHub profile! I'm mostly involved in development of CRUD webapps
 
 ## 🚀 Tech Stack
 
-- **Languages:** JavaScript, Python, SQL, HTML, CSS
-- **Libraries & Framworks**: React, Express JS, Mongoose, SQLAlchemy
-- **Databases:** MongoDB, NeonDB
+- **Languages:** JavaScript, TypeScript, Node.js Python, SQL, HTML, CSS
+- **Libraries & Framworks**: React, Express.js, Mongoose, SQLAlchemy, Socket.IO, OAuth, JWT, Bootstrap, TailwindCSS
+- **Databases:** MongoDB, MySQL
 - **Tools:** VScode, Postman, Docker, Git/Github
 
 ---
 
 ## 📂 Featured Projects
-
-- [Anvaya CRM](https://frontend-mp2.vercel.app/) - A MERN based CRM webapp that helps to manage sales leads and sales agents
+- [Tutor Directory]([https://frontend-mp2.vercel.app/](https://tutordirectory.vercel.app/)) - A Web App that let's any parent find home tutors near there location by just selecting there address.
+- [Anvaya CRM](https://frontend-mp2.vercel.app/) - A MERN based CRM webapp that helps to manage sales leads and sales agents.
 - [myShoppingSite](https://frontend-mp1.vercel.app/) - An ecommerce webapp built using MERN technologies. It helps users purchase products.
 ---
 
