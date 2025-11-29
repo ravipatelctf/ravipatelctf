@@ -2,8 +2,6 @@
 Contributing as an Open Source Developer at TeamShiksha.
 focusing on database design and API development for roadmaps feature using SQLAlchemy and FastAPI.
 
----
-
 ## 📫 How to reach me
 
 - GitHub: [@ravipatelctf](https://github.com/ravipatelctf)
@@ -12,8 +10,6 @@ focusing on database design and API development for roadmaps feature using SQLAl
 - Email: [ravipatelctf@gmail.com](ravipatelctf@gmail.com)
 - Portfolio: [ravipatelctf](https://ravipatelctf.vercel.app/)
 
----
-
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Node.js Python, SQL, HTML, CSS
@@ -21,23 +17,15 @@ focusing on database design and API development for roadmaps feature using SQLAl
 - **Databases:** MongoDB, MySQL
 - **Tools:** VScode, Postman, Docker, Git/Github
 
----
-
 ## 📂 Featured Projects
 - [Tutor Directory]([https://frontend-mp2.vercel.app/](https://tutordirectory.vercel.app/)) - A Web App that let's any parent find home tutors near there location by just selecting there address.
 - [Anvaya CRM](https://frontend-mp2.vercel.app/) - A MERN based CRM webapp that helps to manage sales leads and sales agents.
 - [myShoppingSite](https://frontend-mp1.vercel.app/) - An ecommerce webapp built using MERN technologies. It helps users purchase products.
----
 
 ## 🌱 I’m open to contributing to any project that makes an impact!
 I'm always eager to collaborate and contribute to meaningful projects. If you have something exciting, feel free to reach out!
 
----
-
 ## 🎯 Career Goal
-
-Becoming a 100x developer just like Ryan Dhal, Linus Torvalds, Jeffery Way, etc  and making an impact through technology.
-
+- Becoming a 100x developer just like Ryan Dhal, Linus Torvalds, Jeffery Way, etc  and making an impact through technology.
 ---
-
 Thanks for stopping by! Let's build something great together 🚀
